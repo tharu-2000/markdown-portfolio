@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I like to **CODE** specially in the following languages :*
+
+1. __Java__
+2. __Python__
+3. __C__
